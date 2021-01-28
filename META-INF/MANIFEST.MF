@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.5.3
+Built-By: haoha
+Build-Jdk: 12.0.1
+Implementation-Title: wx
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.yangb
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/wx
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.yangb.wx.WxApplication
+Spring-Boot-Version: 2.1.2.RELEASE
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+
